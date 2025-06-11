@@ -26,9 +26,9 @@ The following **optional** features are implemented:
 
 The following **additional** features are implemented:
 
-- [ ] Hover animation effect added to cards for better UI interactivity
-- [ ] Simple, modern design using CSS Grid and Flexbox
-- [ ] Clean folder structure with reusable components
+- [x] Hover animation effect added to cards for better UI interactivity
+- [x] Simple, modern design using CSS Grid and Flexbox
+- [x] Clean folder structure with reusable components
 
 ## Video Walkthrough
 
