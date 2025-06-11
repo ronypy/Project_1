@@ -33,6 +33,8 @@ The following **additional** features are implemented:
 ## Video Walkthrough
 
 Here's a walkthrough of implemented required features:
+![ezgif-18be5eca03f584](https://github.com/user-attachments/assets/2b8cfc13-af96-4fe5-accd-aab784824303)
+
 
 <img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
