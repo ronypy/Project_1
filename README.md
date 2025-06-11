@@ -36,18 +36,9 @@ Here's a walkthrough of implemented required features:
 ![ezgif-18be5eca03f584](https://github.com/user-attachments/assets/2b8cfc13-af96-4fe5-accd-aab784824303)
 
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
-
-<!-- Replace this with the actual GIF tool you used -->
-GIF created with [Kap](https://getkap.co/)  
-
 ## Notes
 
-Describe any challenges encountered while building the app.
-
-- Getting comfortable with component-based structure in React
-- Ensuring layout stayed responsive on small screens
-- Organizing and mapping data to cards dynamically
+Took a bit more time to finish.
 
 ## License
 
